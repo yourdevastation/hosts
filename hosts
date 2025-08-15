@@ -622,3 +622,6 @@
 0.0.0.0 www.interia.pl
 0.0.0.0 www.omaze.com
 0.0.0.0 z.moatads.com
+0.0.0.0 api-partner.spotify.com
+0.0.0.0 partners.wg.spotify.com
+0.0.0.0 edge-web.dual-gslb.spotify.com
